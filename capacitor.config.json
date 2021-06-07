@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "faithfullr",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
